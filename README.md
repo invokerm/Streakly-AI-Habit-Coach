@@ -1,17 +1,34 @@
-# habitcoach
+# 🤖 Streakly — AI Habit Coach
 
-A new Flutter project.
+**Streakly** is an AI-powered personal habit coach designed to help you build better habits, stay consistent, and achieve your goals. 🎯🔥
 
-## Getting Started
+🧠 **AI-Powered Coaching**
+Get personalized guidance, motivation, and practical advice from an AI coach that helps you stay focused on your goals.
 
-This project is a starting point for a Flutter application.
+🎯 **Build Better Habits**
+Create daily habits, set goals, and turn small actions into consistent routines.
 
-A few resources to get you started if this is your first Flutter project:
+🔥 **Keep Your Streaks Alive**
+Track your progress and maintain your streaks to stay motivated and build consistency over time.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+📊 **Track Your Progress**
+See your daily achievements, monitor your habits, and understand your progress toward your goals.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💡 **Personalized Guidance**
+Streakly adapts its coaching to help you overcome setbacks, stay motivated, and keep moving forward.
+
+### ✨ Features
+
+* 🤖 AI-powered personal coaching
+* 🎯 Custom goals & habits
+* 🔥 Daily streak tracking
+* 📊 Progress monitoring
+* 💬 AI motivation & advice
+* 📅 Daily habit tracking
+* 🧠 Personalized recommendations
+* 🚀 Goal-focused experience
+* 🎨 Clean & modern interface
+
+### 🌟 Build Habits. Stay Consistent. Become Better.
+
+**Streakly turns your goals into daily actions and gives you an AI coach to help you stay on track.** 🤖💪🔥
